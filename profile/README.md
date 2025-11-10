@@ -14,6 +14,7 @@ We build not just hardware — but an ecosystem around transparency, collaborati
 - 🧠 **Custom Hardware** we design our own custom hardware, using our own tools.
 - ⚙️ **Automated pipelines** for design → fab → bring-up
 - 📚 **Open documentation** for self-hosted hardware development
+- 🎩 **Custom SoC** we design a custom System On Chip (SoC).
 
 ---
 
@@ -43,6 +44,7 @@ We welcome contributions of all kinds:
 - Docs, tutorials, kits
 - Testing and reviews
 - CI pipelines and fab automation
+- HDL Programming
 
 👉 Check out our [`CONTRIBUTING.md`](./CONTRIBUTING.md) to get started.
 
