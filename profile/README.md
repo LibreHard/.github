@@ -23,6 +23,7 @@ We build not just hardware — but an ecosystem around transparency, collaborati
 | Repo | Description |
 |------|-------------|
 | [`lbrtool`](https://github.com/LibreHard/lbrtool) | Custom Build Toolset |
+| [`lbrsoc`](https://github.com/LibreHard/lbrsoc) | Custom Build SoC |
 
 
 ---
